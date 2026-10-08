@@ -1,6 +1,8 @@
-# Replay of Procedural Experience is Independent of the Hippocampus
+# Replay of procedural memory is independent of the hippocampus
 
-This repository contains the code and data necessary to reproduce the figures from our publication: [Replay of Procedural Experience is Independent of the Hippocampus](https://www.biorxiv.org/content/10.1101/2024.06.05.597547v1.full.pdf).
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20055818.svg)](https://doi.org/10.5281/zenodo.20055818)
+
+This repository contains the code and data necessary to reproduce the figures from our publication: [Replay of procedural memory is independent of the hippocampus](https://doi.org/10.1038/s41593-026-02362-5), *Nature Neuroscience* **29**, 2237-2248 (2026). The preprint is also available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.06.05.597547v1.full.pdf).
 
 
 ---------------------------------------------------------------------------------------------------------
