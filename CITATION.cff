@@ -1,0 +1,60 @@
+# Read by GitHub ("Cite this repository") and by Zenodo when it archives a
+# GitHub release (Zenodo maps CITATION.cff -> deposit metadata).
+# Article metadata below is the published Nature Neuroscience record, verified against
+# Crossref (doi 10.1038/s41593-026-02362-5).
+# TODO: add ORCIDs, and confirm the software version/date-released for the archived release.
+# The top-level `authors` list is the SOFTWARE author list: the two people who wrote the code
+# in this repository. The paper's full 13-author list is under `preferred-citation`.
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it using these metadata."
+title: "Replay of procedural memory is independent of the hippocampus"
+type: software
+authors:
+  - given-names: "Emmett J."
+    family-names: "Thompson"
+    affiliation: "Sainsbury Wellcome Centre for Neural Circuits and Behaviour, University College London, London, UK"
+  - given-names: "Lars B."
+    family-names: "Rollik"
+    affiliation: "Sainsbury Wellcome Centre for Neural Circuits and Behaviour, University College London, London, UK"
+repository-code: "https://github.com/StephensonJonesLab/Thompson_et_al_2026"
+version: "1.03"
+date-released: "2026-07-01"
+# Concept DOI — always resolves to the latest version on Zenodo.
+doi: "10.5281/zenodo.20055818"
+preferred-citation:
+  type: article
+  title: "Replay of procedural memory is independent of the hippocampus"
+  authors:
+    - given-names: "Emmett J."
+      family-names: "Thompson"
+    - given-names: "Lars B."
+      family-names: "Rollik"
+    - given-names: "Benjamin"
+      family-names: "Waked"
+    - given-names: "Georgina"
+      family-names: "Mills"
+    - given-names: "Sthitapranjya"
+      family-names: "Pati"
+    - given-names: "Jasvin"
+      family-names: "Kaur"
+    - given-names: "Ben"
+      family-names: "Geva"
+    - given-names: "Haoyu"
+      family-names: "Li"
+    - given-names: "Rodrigo"
+      family-names: "Carrasco-Davis"
+    - given-names: "Tom"
+      family-names: "George"
+    - given-names: "Clementine"
+      family-names: "Domine"
+    - given-names: "William"
+      family-names: "Dorrell"
+    - given-names: "Marcus"
+      family-names: "Stephenson-Jones"
+  journal: "Nature Neuroscience"
+  year: 2026
+  month: 7
+  volume: 29
+  start: 2237
+  end: 2248
+  doi: "10.1038/s41593-026-02362-5"
